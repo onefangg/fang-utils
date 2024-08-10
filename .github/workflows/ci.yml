@@ -17,6 +17,8 @@ jobs:
       
       - name: Build
         run: |
+          ls -lrt .
           cd json-data-comparator/www/
+          ls -lrt .
           npm run build
           ls -lrt .
