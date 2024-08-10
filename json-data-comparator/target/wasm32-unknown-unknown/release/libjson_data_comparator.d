@@ -1,0 +1,1 @@
+/home/pseudopoo/json-data-comparator/target/wasm32-unknown-unknown/release/libjson_data_comparator.rlib: /home/pseudopoo/json-data-comparator/src/lib.rs /home/pseudopoo/json-data-comparator/src/utils.rs

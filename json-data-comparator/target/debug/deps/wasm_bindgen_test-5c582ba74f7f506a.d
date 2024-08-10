@@ -1,0 +1,10 @@
+/home/pseudopoo/json-data-comparator/target/debug/deps/libwasm_bindgen_test-5c582ba74f7f506a.rmeta: /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs
+
+/home/pseudopoo/json-data-comparator/target/debug/deps/wasm_bindgen_test-5c582ba74f7f506a.d: /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs /home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs
+
+/home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs:
+/home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs:
+/home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs:
+/home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs:
+/home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs:
+/home/pseudopoo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs:

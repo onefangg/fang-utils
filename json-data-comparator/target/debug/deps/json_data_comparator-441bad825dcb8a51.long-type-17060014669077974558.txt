@@ -1,0 +1,1 @@
+itertools::IntersperseWith<std::iter::Map<std::slice::Iter<'_, SearchResults>, {closure@src/lib.rs:79:18: 79:21}>, itertools::intersperse::IntersperseElementSimple<std::string::String>>
